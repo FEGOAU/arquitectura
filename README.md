@@ -1,5 +1,4 @@
-# Arquitectura Empresarial - Control de Versiones
-
+# Arquitectura Empresarial - RAMA A
 ## Tipo de Servicio Web
 Este proyecto implementa una API de tipo **REST**.
 
